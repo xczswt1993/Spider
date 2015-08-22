@@ -1,0 +1,36 @@
+keybing 
+sublimeREPL
+[
+    { "keys": ["f5"], "caption": "SublimeREPL:Python", 
+                      "command": "run_existing_window_command", "args":
+                      {
+                           "id": "repl_python_run",
+                           "file": "config/Python/Main.sublime-menu"
+                      } 
+    },
+]
+
+anaconda
+pythonpep8
+sublimeCodeIntel
+  {  "Python": {
+        "python": "/usr/bin/python",
+        "codeintel_scan_extra_dir": 
+        [
+        "/usr/lib/python2.7","/usr/lib/python2.7"
+        ]
+    }
+}
+sublimePythonIDE
+jedi
+
+安装mongodb
+scrapy
+beautifulSoup
+
+firebug
+proxy
+xpath checker
+
+
+
