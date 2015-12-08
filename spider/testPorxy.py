@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 #-*- coding:utf-8 -*-
+#
+#how to use proxy in python
+#
 import requests
 import urllib2
 import socket
